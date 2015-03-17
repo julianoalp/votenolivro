@@ -107,7 +107,7 @@ public class Controle {
         return numero;
     }
 
-    //public void compara
+    // mostra as opcoes possiveis para votacao
     public filmesApresentados mostraOpcoes() {
         int index = geranumeroRandomico();
         int index1 = geranumeroRandomico();
